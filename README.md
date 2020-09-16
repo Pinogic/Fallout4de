@@ -1,9 +1,9 @@
 # Fallout 4 DE Strings
-Current strings from Fallout 4
+Es sind die original Strings welche sämtliche Texte beinhalten welche vom Spiel verwendet werden.
 
-Can be used to fix text bugs in the german version.
-
-
-Allways use xTranslator to edit strings:
-
+Benutze immer xTranslator um die Strings zu editieren:\
 https://www.nexusmods.com/skyrimspecialedition/mods/134?tab=files
+
+Verändere oder Lösche niemals die IDs/Zeilen!
+
+Viel Spaß :)
